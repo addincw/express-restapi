@@ -1,0 +1,6 @@
+connect with db
+1. menggunakan library mongoose untuk mempermudah
+2. buat models untuk tiap collections (mongoose.Schema())
+3. transaksi dengan db melalui model yang telah dibuat
+
+jangan lupa install package cors jika rest api bisa di akses dari domain yang berbeda
